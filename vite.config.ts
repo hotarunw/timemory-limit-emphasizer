@@ -12,7 +12,7 @@ export default defineConfig({
         namespace: "https://github.com/hotarupoyo",
         version: packageJson.version,
         author: "hotarupoyo",
-        description: "AtCoderで実行時間制限が2 secでないとき、メモリ制限が1024 MBでないときに強調する",
+        description: packageJson.description,
         match: ["https://atcoder.jp/contests/*/tasks/*"],
         license: packageJson.license,
       },
