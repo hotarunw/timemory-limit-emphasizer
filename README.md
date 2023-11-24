@@ -16,3 +16,11 @@ AtCoderで実行時間制限が2 secでないとき、メモリ制限が1024 MB�
 
 - [Time Limit Emphasizer](https://greasyfork.org/ja/scripts/406381-time-limit-emphasizer)
 - [fujihiraryo/atcoder\-limit\-alert: atcoder の問題の実行時間またはメモリ制限がいつもと違うときに目立たせる](https://github.com/fujihiraryo/atcoder-limit-alert)
+
+## GitHub リポジトリ
+
+<https://github.com/hotarupoyo/timemory-limit-emphasizer>
+
+## GreasyFork からインストール
+
+<https://greasyfork.org/ja/scripts/480675-timemory-limit-emphasizer>
