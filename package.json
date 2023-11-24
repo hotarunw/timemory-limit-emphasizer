@@ -1,0 +1,18 @@
+{
+  "name": "timemory-limit-emphasizer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.3.3",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.8",
+    "vite-plugin-monkey": "^3.4.0"
+  }
+}
