@@ -1,5 +1,5 @@
 {
-  "name": "imemory-limit-emphasizer",
+  "name": "timemory-limit-emphasizer",
   "private": true,
   "version": "0.0.0",
   "description": "AtCoderで実行時間制限が2 secでないとき、メモリ制限が1024 MBでないときに強調する",
