@@ -19,7 +19,7 @@ AtCoderで実行時間制限が2 secでないとき、メモリ制限が1024 MB�
 
 ## GitHub リポジトリ
 
-<https://github.com/hotarupoyo/timemory-limit-emphasizer>
+<https://github.com/hotarunw/timemory-limit-emphasizer>
 
 ## GreasyFork からインストール
 

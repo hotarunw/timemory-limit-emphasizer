@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 import monkey from "vite-plugin-monkey";
-import packageJson from "./package.json" assert { type: "json" };
+import packageJson from "./package.json" with { type: "json" };
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -9,9 +9,9 @@ export default defineConfig({
       entry: "src/main.ts",
       userscript: {
         name: packageJson.name,
-        namespace: "https://github.com/hotarupoyo",
+        namespace: "https://github.com/hotarunw",
         version: packageJson.version,
-        author: "hotarupoyo",
+        author: "hoarunw",
         description: packageJson.description,
         match: ["https://atcoder.jp/contests/*/tasks/*"],
         license: packageJson.license,
